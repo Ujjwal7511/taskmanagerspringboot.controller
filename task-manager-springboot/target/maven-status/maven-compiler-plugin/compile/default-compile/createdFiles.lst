@@ -1,0 +1,12 @@
+com\example\taskmanagerspringboot\config\SecurityConfig.class
+com\example\taskmanagerspringboot\repository\UserRepository.class
+com\example\taskmanagerspringboot\TaskManagerApplication.class
+com\example\taskmanagerspringboot\entity\Task.class
+com\example\taskmanagerspringboot\service\TaskService.class
+com\example\taskmanagerspringboot\service\UserDetailsServiceImpl.class
+com\example\taskmanagerspringboot\repository\TaskRepository.class
+com\example\taskmanagerspringboot\controller\AuthController.class
+com\example\taskmanagerspringboot\controller\TaskController.class
+com\example\taskmanagerspringboot\entity\User.class
+com\example\taskmanagerspringboot\service\UserService.class
+com\example\taskmanagerspringboot\entity\Task$Priority.class
